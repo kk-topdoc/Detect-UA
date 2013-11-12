@@ -53,7 +53,7 @@ class BrowserSniffer {
 			// 'Windows 98; Win 9x 4.90' => 'Windows Millennium Edition (Windows Me)',
 			'Windows 98' => 'Windows 98',
 			'Windows 95' => 'Windows 95',
-			'Windows CE' => 'Windows CE',
+			'Windows CE' => 'Windows CE'/*,
 			'Mac OS X 10.2' => 'Mac OS X v10.2 Jaguar',
 			'Mac OS X 10.3' => 'Mac OS X v10.3 Panther',
 			'Mac OS X 10.4' => 'Mac OS X v10.4 Tiger',
@@ -61,7 +61,7 @@ class BrowserSniffer {
 			'Mac OS X 10.6' => 'Mac OS X v10.6 Snow Leopard',
 			'Mac OS X 10.7' => 'Mac OS X v10.7 Lion',
 			'Mac OS X 10.8' => 'Mac OS X v10.8 Mountain Lion',
-			'Mac OS X 10.9' => 'Mac OS X v10.9 Mavericks'
+			'Mac OS X 10.9' => 'Mac OS X v10.9 Mavericks'*/
 		);
 	}
 
